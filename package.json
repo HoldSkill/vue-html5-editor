@@ -29,7 +29,6 @@
     "eslint-plugin-import": "^1.16.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.9.0",
-    "lrz": "^4.9.40",
     "postcss-clean": "^1.0.2",
     "postcss-cssnext": "^2.9.0",
     "postcss-import": "^9.1.0",
